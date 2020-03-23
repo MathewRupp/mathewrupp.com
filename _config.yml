@@ -31,7 +31,7 @@ github_username:  Cybnew
 
 # Build settings
 #theme: minima
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
