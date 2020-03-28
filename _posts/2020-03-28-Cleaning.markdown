@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Cleaning
+date:   2020-03-28 11:20:33 -700
+categories: misc productivity
+tags: covid-19
+---
+
+## What to do when you're home all the time
+
+If there's one positive side effect to this whole social isolation thing, it's that I have much more time to be productive in the Workshop. It's probably been at least a year since I really deep cleaned the shop and I'm happy to announce that today the shop is sawdust free. I've also taken this time to prototype some products to sell in the geek/nerd space. Will share some pictures when I get them made.
+
+I've been thinking of ways I need to automate parts of my shop workflow since I've been listening to a lot of automation stuff lately. I also want to make some checklists for specific tasks such as CNC operation.
