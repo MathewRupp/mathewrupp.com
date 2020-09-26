@@ -3,6 +3,7 @@ layout: post
 title:  Reexamining Evernote
 date:   2020-05-04 21:54:17 -700
 categories: productivity
+tags: workflow
 ---
 
 # Looking into improving my workflow for storing reference material
